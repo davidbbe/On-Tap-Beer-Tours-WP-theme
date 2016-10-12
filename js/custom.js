@@ -154,13 +154,3 @@ jQuery(document).ready(function(){
       $(this).removeClass('active');
     });
   });
-
-//============================== COUNT DOWN =========================
-  $('#simple_timer').syotimer({
-    year: 2017,
-    month: 5,
-    day: 9,
-    hour: 20,
-    minute: 30,
-  });
-});

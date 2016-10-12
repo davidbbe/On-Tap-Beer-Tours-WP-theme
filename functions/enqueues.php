@@ -78,8 +78,8 @@ function bst_enqueues() {
 	wp_register_script('isotope-triger', get_template_directory_uri() . '/plugins/isotope/isotope-triger.js', false, null, true);
 	wp_enqueue_script('isotope-triger');
 
-	wp_register_script('syotimer', get_template_directory_uri() . '/plugins/countdown/jquery.syotimer.js', false, null, true);
-	wp_enqueue_script('syotimer');
+	// wp_register_script('syotimer', get_template_directory_uri() . '/plugins/countdown/jquery.syotimer.js', false, null, true);
+	// wp_enqueue_script('syotimer');
 
 	wp_register_script('smoothscroll', get_template_directory_uri() . '/plugins/smoothscroll/SmoothScroll.js', false, null, true);
 	wp_enqueue_script('smoothscroll');
