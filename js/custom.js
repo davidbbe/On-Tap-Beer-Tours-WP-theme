@@ -18,7 +18,7 @@
 
 }(jQuery));
 
-jQuery(document).ready(function(){
+jQuery(document).ready(function( $ ) {
 //============================== CLOSE DROPDOWN SELECT =========================
   $(".ed-datepicker input.form-control").focus(function() {
     $(".sbOptions").css("display", "none");
@@ -69,7 +69,7 @@ jQuery(document).ready(function(){
     }  
     else {
       header.removeClass("lightHeader");
-    };
+    }
 
   });
 
@@ -154,3 +154,5 @@ jQuery(document).ready(function(){
       $(this).removeClass('active');
     });
   });
+
+});

@@ -1,4 +1,9 @@
 /*=== 3. HEADER ===*/
+body.admin-bar {
+	.navbar-default.navbar-fixed-top{
+		top: 32px;
+	}
+}
 header{
 	position:relative;
 	z-index:999;
