@@ -82,57 +82,11 @@
                   <li><a href="destination-single-city.html">Single Destination</a></li>
                 </ul>
               </li>
-              <li class="dropdown singleDrop">
-                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAGES</a>
-                <ul class="dropdown-menu dropdown-menu-right">
-                  <li><a href="about-us.html">About Us</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-                  <li class="dropdown dropdown-submenu">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Gallery <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="gallery-grid.html">Gallery Grid</a></li>
-                      <li><a href="gallery-masonry.html">Gallery Masonry</a></li>
-                      <li><a href="gallery-photo-slider.html">Photo Slider</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="404.html">404 Not Found</a></li>
-                  <li><a href="coming-soon.html">Coming Soon</a></li>
-                </ul>
+              <li class="">
+                <a href="#">About</a>
               </li>
-              <li class="dropdown singleDrop">
-                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
-                <ul class="dropdown-menu dropdown-menu-right">
-                  <li class="dropdown dropdown-submenu">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Blog Grid View <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog-grid-three-col.html">Blog Grid 3 Col</a></li>
-                      <li><a href="blog-grid-two-col.html">Blog Grid 2 Col</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown dropdown-submenu">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Blog List View <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog-list-right-sidebar.html">Blog List Right Sidebar</a></li>
-                      <li><a href="blog-list-left-sidebar.html">blog-list-left-sidebar.html</a></li>
-                      <li><a href="blog-list-fullwidth.html">Blog List Fullwidth</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown dropdown-submenu">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Single Blog Post <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog-single-right-sidebar.html">Right Sidebar</a></li>
-                      <li><a href="blog-list-left-sidebar.html">Left Sidebar</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class="dropdown singleDrop">
-                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">shortcodes</a>
-                <ul class="dropdown-menu dropdown-menu-right">
-                  <li><a href="accordion-and-toggles.html">Accordions &amp; Toggles</a></li>
-                  <li><a href="tabs-and-dropdown.html">Tabs &amp; Dropdowns</a></li>
-                  <li><a href="pricing-table.html">Pricing Tables</a></li>
-                </ul>
+              <li class="">
+                <a href="#">Contact</a>
               </li>
 <!--               <li class="dropdown searchBox">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="searchIcon"><i class="fa fa-search" aria-hidden="true"></i></span></a>

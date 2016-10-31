@@ -47,8 +47,8 @@ function bst_enqueues() {
 	wp_enqueue_script('datepicker');
 	wp_register_script('waypoints', 'https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js', false, null, true);
 	wp_enqueue_script('waypoints');
-	wp_register_script('counterup', get_template_directory_uri() . '/plugins/counter-up/jquery.counterup.min.js', false, null, true);
-	wp_enqueue_script('counterup');
+	//wp_register_script('counterup', get_template_directory_uri() . '/plugins/counter-up/jquery.counterup.min.js', false, null, true);
+	//wp_enqueue_script('counterup');
 	wp_register_script('isotope-js', get_template_directory_uri() . '/plugins/isotope/isotope.min.js', false, null, true);
 	wp_enqueue_script('isotope-js');
 	wp_register_script('fancybox-js', get_template_directory_uri() . '/plugins/isotope/jquery.fancybox.pack.js', false, null, true);

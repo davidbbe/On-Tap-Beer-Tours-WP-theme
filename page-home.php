@@ -5,6 +5,111 @@
 
 get_header(); ?>
 
+    <section class="mainContentSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 sectionTitle">
+            <h2><span>TRANSPORTATION SERVICES IN NORTHERN CA</span></h2>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-8">
+            <div class="">
+              <p class="lead">At TOUR IT in Santa Rosa, CA, we pride ourselves on maintaining a vehicle fleet that meets the exacting standards of all our clients.</p>
+              <p>We understand that safety and comfort are very important to our customers and we strongly believe that we can exceed our customers’ expectations. Both businesses and individuals can rely on our transportation services. We have automobiles with dimensions and amenities to match any taste. We offer a suite of transportation solutions, including:</p>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <img class="img-responsive" src="#" alt="Vehicle selection" />
+          </div>
+        </div>
+        <hr />
+        <div class="row aboutItem">
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-plane" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Airport Transportation</h4>
+                <p>Travelers who feel worn down by long waits and frenzied passengers at the airport taxi departure area can take advantage of our airport transportation service.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-glass" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Wine Tours</h4>
+                <p>Planning an exciting day of touring some local notable wineries and vineyards? Discover the wines of Sonoma or Napa while travelling in style and luxury with our limousine wine tours.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-bus" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Corporate Car Services</h4>
+                <p>As a business owner or manager, you've got better things to do than worry about making travel arrangements. So if you're looking for an easy way to provide your employees with a quick and easy way to get around town, we're at your service.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-beer" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Brewery Tours</h4>
+                <p>Sample tasty IPA's, Farmhouse Ales, Lagers, Porters, Stouts, Ciders and Sours at some of Sonoma County's coolest breweries.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-bus" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Weddings And Other Events</h4>
+                <p>Event Services provides safe transportation for you and your guests from your choice of event locations.</p>
+              </div>
+            </div>
+          </div>
+          <!--
+          <div class="col-sm-4 col-xs-12">
+            <div class="media">
+              <a class="media-left" href="#"><i class="fa fa-cutlery" aria-hidden="true"></i></a>
+              <div class="media-body">
+                <h4 class="media-heading">Cras Vestibulum</h4>
+                <p>Aenean gravida, nisl et volutpat dapibus, nisl odio accumsan pretium lacus libero a lacus.</p>
+              </div>
+            </div>
+          </div> -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Wine Tours PARALLAX -->
+    <section class="promotionWrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="promotionTable">
+              <div class="promotionTableInner">
+                <div class="promotionInfo">
+                  <span>Elegant Sonoma Wine Tasting Tours and Napa Valley Wine Tours</span>
+                  <h2>Call Us Or Book Online</h2>
+                  <ul class="list-inline rating">
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                  </ul>
+                  <p>707-123-4567</p>
+                  <a href="#" class="btn buttonCustomPrimary">Book Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3 Packages -->
     <section class="mainContentSection packagesSection">
       <div class="container">
         <div class="row">
@@ -144,7 +249,7 @@ get_header(); ?>
       </div>
     </section>
 
-    <!-- PROMOTION PARALLAX -->
+    <!-- Airport PARALLAX -->
     <section class="promotionWrapper">
       <div class="container">
         <div class="row">
@@ -152,17 +257,30 @@ get_header(); ?>
             <div class="promotionTable">
               <div class="promotionTableInner">
                 <div class="promotionInfo">
-                  <span>Winter Promotion</span>
-                  <h2>Greek Island Vacetion Tour</h2>
-                  <ul class="list-inline rating">
-                    <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  </ul>
-                  <p>$599 per person - 5 nights</p>
-                  <a href="single-package-right-sidebar.html" class="btn buttonCustomPrimary">View Details</a>
+                  <h2>Airport Pick Up &amp; Drop Off</h2>
+                  <p>Tour It. Event Services will be happy to Pick up or drop off at any of the following airports:</p>
+                  
+                  <div class="col-sm-4 col-xs-6">
+                    <div class="text-center">
+                      <div class="counter">SFO <i class="fa fa-plane" aria-hidden="true"></i></div>
+                      <h5>San Francisco International</h5>
+                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 col-xs-6">
+                    <div class="text-center">
+                      <div class="counter">OAK <i class="fa fa-plane" aria-hidden="true"></i></div>
+                      <h5>Oakland International</h5>
+                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 col-xs-6">
+                    <div class="text-center">
+                      <div class="counter">STS <i class="fa fa-plane" aria-hidden="true"></i></div>
+                      <h5>Sonoma County Airport</h5>
+                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -171,252 +289,5 @@ get_header(); ?>
       </div>
     </section>
 
-    <!-- DESTINATIONS -->
-    <section class="whiteSection">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="sectionTitle">
-              <h2><span>Our Destinations</span></h2>
-              <p>Nullam vitae risus commodo arcu tincidunt ultricies</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="media destinations">
-              <a class="media-left" href="destination-cities.html">
-                <img class="media-object" src="img/home/destination.jpg" alt="Destination">
-              </a>
-              <div class="media-body">
-                <h3 class="media-heading">Choose <br>Your Destination</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <div class="clearfix">
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-minus" aria-hidden="true"></i>Asia</li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Aenean</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Etiam</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Donec</a></li>
-                  </ul>
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-minus" aria-hidden="true"></i>Europe</li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Maecenas</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Cras Sagittis</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Vestibulum</a></li>
-                  </ul>
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-minus" aria-hidden="true"></i>America</li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Morbi Sed</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Pellentesque</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Proin</a></li>
-                  </ul>
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-minus" aria-hidden="true"></i>Africa</li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Duis Eu</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Morbi Nisl</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Curabitur</a></li>
-                  </ul>
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-minus" aria-hidden="true"></i>Australia</li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Vivamus</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Nibh Odio</a></li>
-                    <li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Dictum</a></li>
-                  </ul>
-                </div>
-                <div class="media-btn">
-                  <a href="destination-cities.html" class="btn buttonTransparent">View All</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- COUNTING PARALLAX -->
-    <section class="countUpSection">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-3 col-xs-6">
-            <div class="text-center">
-              <div class="icon">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
-              </div>
-              <div class="counter">179</div>
-              <h5>Destinations</h5>
-            </div>
-          </div>
-          <div class="col-sm-3 col-xs-6">
-            <div class="text-center">
-              <div class="icon">
-                <i class="fa fa-gift" aria-hidden="true"></i>
-              </div>
-              <div class="counter">48</div>
-              <h5>tour pack</h5>
-            </div>
-          </div>
-          <div class="col-sm-3 col-xs-6">
-            <div class="text-center">
-              <div class="icon">
-                <i class="fa fa-smile-o" aria-hidden="true"></i>
-              </div>
-              <div class="counter">4562</div>
-              <h5>happy clients</h5>
-            </div>
-          </div>
-          <div class="col-sm-3 col-xs-6">
-            <div class="text-center">
-              <div class="icon">
-                <i class="fa fa-life-ring" aria-hidden="true"></i>
-              </div>
-              <div class="counter">24</div>
-              <h5>hours support</h5>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- TOUR PACKAGES -->
-    <section class="whiteSection">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="sectionTitle">
-              <h2><span>Our Packages</span></h2>
-              <p>Ut facilisis facilisis metus quis semper</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="filter-container isotopeFilters">
-              <ul class="list-inline filter">
-                <li class="active"><a href="#" data-filter="*">All Places</a></li>
-                <li><a href="#" data-filter=".asia">Asia</a></li>
-                <li><a href="#" data-filter=".america">America</a></li>
-                <li><a href="#" data-filter=".africa">Africa</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="row isotopeContainer">
-            <div class="col-sm-4 isotopeSelector asia">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-1.jpg" alt="">
-                  <h4>Vestibulum Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                    <a class="fancybox-pop" href="single-package-fullwidth.html">
-                    <div class="overlayInfo">
-                      <h5>from <span>$399</span></h5>
-                      <p><i class="fa fa-calendar" aria-hidden="true"></i>27 Jan, 2017</p>
-                    </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-            <div class="col-sm-4 isotopeSelector america africa">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-2.jpg" alt="">
-                  <h4>Maecenas Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                  <a class="fancybox-pop" href="single-package-fullwidth.html">
-                      <div class="overlayInfo">
-                        <h5>from <span>$599</span></h5>
-                        <p><i class="fa fa-calendar" aria-hidden="true"></i>09 Feb, 2017</p>
-                      </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-            <div class="col-sm-4 isotopeSelector africa">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-3.jpg" alt="">
-                  <h4>Lobortis Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                    <a class="fancybox-pop" href="single-package-fullwidth.html">
-                    <div class="overlayInfo">
-                      <h5>from <span>$299</span></h5>
-                      <p><i class="fa fa-calendar" aria-hidden="true"></i>14 Feb, 2017</p>
-                    </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-            <div class="col-sm-4 isotopeSelector asia america">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-4.jpg" alt="">
-                  <h4>Leo Lacus Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                    <a class="fancybox-pop" href="single-package-fullwidth.html">
-                    <div class="overlayInfo">
-                      <h5>from <span>$399</span></h5>
-                      <p><i class="fa fa-calendar" aria-hidden="true"></i>11 Jan, 2017</p>
-                    </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-            <div class="col-sm-4 isotopeSelector america">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-5.jpg" alt="">
-                  <h4>Nullam Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                    <a class="fancybox-pop" href="single-package-fullwidth.html">
-                    <div class="overlayInfo">
-                      <h5>from <span>$199</span></h5>
-                      <p><i class="fa fa-calendar" aria-hidden="true"></i>02 Feb, 2017</p>
-                    </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-            <div class="col-sm-4 isotopeSelector africa asia">
-              <article class="">
-                <figure>
-                  <img src="img/home/packages/packages-6.jpg" alt="">
-                  <h4>Hendrerit Tour</h4>
-                  <div class="overlay-background">
-                    <div class="inner"></div>
-                  </div>
-                  <div class="overlay">
-                    <a class="fancybox-pop" href="single-package-fullwidth.html">
-                    <div class="overlayInfo">
-                      <h5>from <span>$799</span></h5>
-                      <p><i class="fa fa-calendar" aria-hidden="true"></i>26 Feb, 2017</p>
-                    </div>
-                    </a>
-                  </div>
-                </figure>
-              </article>
-            </div>
-        </div>
-      </div>
-    </section>
 
 <?php get_footer(); ?>

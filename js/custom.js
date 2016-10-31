@@ -83,12 +83,12 @@ jQuery(document).ready(function( $ ) {
   });
 
 //============================== COUNTER-UP =========================
-  $(document).ready(function ($) {
-    $('.counter').counterUp({
-      delay: 10,
-      time: 2000
-    });
-  });
+  // $(document).ready(function ($) {
+  //   $('.counter').counterUp({
+  //     delay: 10,
+  //     time: 2000
+  //   });
+  // });
 
 //============================== PRICE SLIDER RANGER =========================
   jQuery(document).ready(function() {
