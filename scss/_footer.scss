@@ -3,7 +3,7 @@
 	width: 100%;
 	display: block;
 	background-color: $secondary-color;
-	padding: $base*16 0;
+	padding: 50px 0;
 }
 .footer-logo{
 	display: block;
@@ -16,7 +16,7 @@
 		line-height: $base*4+1px;
 		margin: $base*5 0;
 		text-transform: uppercase; 
-		font-family: "Montserrat",sans-serif;
+		font-family: 'Hind', sans-serif;
 	}
 	p{
 		color: lighten(desaturate(adjust-hue($primary-color, 187.4667), 97.6526), 2.3529);

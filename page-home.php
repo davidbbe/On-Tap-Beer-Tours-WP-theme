@@ -9,11 +9,11 @@ get_header(); ?>
       <div class="container">
         <div class="row">
           <div class="col-xs-12 sectionTitle">
-            <h2><span>TRANSPORTATION SERVICES IN NORTHERN CA</span></h2>
+            <h2><span>OFFERING TRANSPORTATION SERVICES TO NORTHERN CA</span></h2>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-8">
             <div class="">
-              <p class="lead">At TOUR IT in Santa Rosa, CA, we pride ourselves on maintaining a vehicle fleet that meets the exacting standards of all our clients.</p>
+              <p class="lead">At TOUR IT in Santa Rosa CA, we pride ourselves on maintaining a vehicle fleet that meets the exacting standards of all our clients.</p>
               <p>We understand that safety and comfort are very important to our customers and we strongly believe that we can exceed our customers’ expectations. Both businesses and individuals can rely on our transportation services. We have automobiles with dimensions and amenities to match any taste. We offer a suite of transportation solutions, including:</p>
             </div>
           </div>
@@ -115,8 +115,8 @@ get_header(); ?>
         <div class="row">
           <div class="col-xs-12">
             <div class="sectionTitle">
-              <h2><span class="lightBg">Our Top Deals</span></h2>
-              <p>Quisque lacus augue, blandit non est a, dictum malesuada odio.</p>
+              <h2><span class="lightBg">Our Transportation Options</span></h2>
+              <p>Custom and private options can be arranged along with our well designed tour options.</p>
             </div>
           </div>
         </div>
@@ -124,128 +124,106 @@ get_header(); ?>
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
               <img src="img/home/deal/deal-01.jpg" alt="deal-image">
-              <a href="single-package-right-sidebar.html" class="pageLink"></a>
+              <a href="#" class="pageLink"></a>
               <div class="discountInfo">
-                <div class="discountOffer">
+<!--                 <div class="discountOffer">
                   <h4>
                     50% <span>OFF</span>
                   </h4>
-                </div>
-                <ul class="list-inline rating homePage">
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                </ul>
+                </div> -->
                 <ul class="list-inline duration">
                   <li>7 days</li>
-                  <li>15 hrs</li>
-                  <li>15 min</li>
                 </ul>
               </div>
               <div class="caption">
-                <h4><a href="single-package-right-sidebar.html" class="captionTitle">Suspendisse Blandit</a></h4>
-                <p>Integer purus ex, dictum nec elementum eu, tristique vel lectus. Donec rutrum lectus et pharetra egestas.</p>
+                <h4>
+                  <a href="#" class="captionTitle">Airport Transfers</a>
+                </h4>
+                <p>We will be happy to pick up or drop off at any of the following airports: SFO, OAK, STS(Sonoma County Airport).</p>
                 <div class="detailsInfo">
                   <h5>
                     <span>Start From</span>
-                    $299
+                    $50
                   </h5>
                   <ul class="list-inline detailsBtn">
-                    <li><a href="single-package-right-sidebar.html" class="btn buttonTransparent">Details</a></li>
-                    <li><a href='booking-1.html' class="btn buttonTransparent">Book now</a></li>
+                    <li>
+                      <a href="#" class="btn buttonTransparent">Details</a>
+                    </li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
               <img src="img/home/deal/deal-02.jpg" alt="deal-image">
-              <a href="single-package-fullwidth.html" class="pageLink"></a>
+              <a href="#" class="pageLink"></a>
               <div class="discountInfo">
-                <div class="discountOffer">
+<!--                 <div class="discountOffer">
                   <h4>
                     Free <span>Gift</span>
                   </h4>
-                </div>
-                <ul class="list-inline rating homePage">
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                </ul>
+                </div> -->
                 <ul class="list-inline duration">
-                  <li>12 days</li>
-                  <li>3 hrs</li>
-                  <li>12 min</li>
+                  <li>6 hour min</li>
                 </ul>
               </div>
               <div class="caption">
-                <h4><a href="single-package-fullwidth.html" class="captionTitle">Suspendisse Eros Erat</a></h4>
-                <p>Proin convallis magna vel libero accumsan sollicitudin. Quisque dapibus vitae turpis eu magna sagittis.</p>
+                <h4>
+                  <a href="#" class="captionTitle">Winery Tours</a>
+                </h4>
+                <p>Our experienced tour guides will share a wealth of knowledge about small boutique single vineyard wineries, to large estate wineries customized to your palate.</p>
                 <div class="detailsInfo">
                   <h5>
                     <span>Start From</span>
-                    $499
+                    $300
                   </h5>
                   <ul class="list-inline detailsBtn">
-                    <li><a href="single-package-fullwidth.html" class="btn buttonTransparent">Details</a></li>
-                    <li><a data-toggle="modal" data-target="#inquiryModal" href="#" class="btn buttonTransparent">Inquiry</a></li>
+                    <li>
+                      <a href="#" class="btn buttonTransparent">Details</a>
+                    </li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
+
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
               <img src="img/home/deal/deal-03.jpg" alt="deal-image">
-              <a href="single-package-left-sidebar.html" class="pageLink"></a>
+              <a href="#" class="pageLink"></a>
               <div class="discountInfo">
-                <div class="discountOffer">
+<!--                 <div class="discountOffer">
                   <h4>
                     25% <span>OFF</span>
                   </h4>
-                </div>
-                <ul class="list-inline rating homePage">
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                  <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                </ul>
+                </div> -->
                 <ul class="list-inline duration">
-                  <li>17 days</li>
-                  <li>13 hrs</li>
-                  <li>18 min</li>
+                  <li>3 hour min</li>
                 </ul>
               </div>
               <div class="caption">
-                <h4><a href="single-package-left-sidebar.html" class="captionTitle">Quisque Placerat Nunc</a></h4>
-                <p>Vivamus eu mattis nibh. Quisque eget ipsum at odio fringilla consequat vel id erat. Suspendisse non feugiat mi.</p>
+                <h4>
+                  <a href="#" class="captionTitle">Shuttle Services</a>
+                </h4>
+                <p>Event Services provides safe transportation for you and your guests from your choice of event locations.</p>
                 <div class="detailsInfo">
                   <h5>
                     <span>Start From</span>
-                    $399
+                    $150
                   </h5>
                   <ul class="list-inline detailsBtn">
-                    <li><a href="single-package-left-sidebar.html" class="btn buttonTransparent">Details</a></li>
-                    <li><a href='booking-1.html' class="btn buttonTransparent">Book now</a></li>
+                    <li>
+                      <a href="#" class="btn buttonTransparent">Details</a>
+                    </li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="btnArea">
-              <a href="packages-grid.html" class="btn buttonTransparent">view all</a>
-            </div>
-          </div>
-        </div>
+
       </div>
     </section>
 

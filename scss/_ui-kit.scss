@@ -76,7 +76,6 @@
 	p{
 		color: lighten(desaturate(adjust-hue($primary-color, -28.5333), 100.0000), 2.9412);
 		font-weight: 400;
-		text-transform: capitalize;
 		margin-bottom: 0;
 		@include mobile-all{
 			font-size: $base-xs*5+1px;
@@ -129,7 +128,7 @@
 	    box-shadow: none;
 	    border-color: lighten(desaturate(adjust-hue($primary-color, -28.5333), 100.0000), 33.9216);
 	    color: lighten(desaturate(adjust-hue($primary-color, -28.5333), 100.0000), 2.9412);
-	    font-family: "Montserrat",sans-serif;
+	    font-family: 'Hind', sans-serif;
 	    font-size: $base-xs*6;
 	    &:focus{
 	    	outline: 0;
@@ -609,7 +608,6 @@
 		.caption{
 			padding: $base*6 $base*4;
 			.captionTitle{
-				font-size: $base*3;
 				color: $text-title;
 				text-transform: uppercase;
 				font-weight: 700;

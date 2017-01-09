@@ -2,7 +2,7 @@
 .container{
 	width: 100%;
 	@include mobile-xs {
-		width: 320px;
+		width: 350px;
 	}
 	@include mobile {
 		width: 450px;
@@ -19,8 +19,8 @@
 }
 body.bodyColor.wrapper {
     margin:0 auto;
-    @include mobile-xs {
-		max-width: 320px;
+  @include mobile-xs {
+		max-width: 350px;
 	}
 	@include mobile {
 		max-width: 450px;
@@ -36,8 +36,8 @@ body.bodyColor.wrapper {
 	}
 }
 body.bodyColor .header {
-    @include mobile-xs {
-		max-width: 320px;
+  @include mobile-xs {
+		max-width: 350px;
 	}
 	@include mobile {
 		max-width: 450px;

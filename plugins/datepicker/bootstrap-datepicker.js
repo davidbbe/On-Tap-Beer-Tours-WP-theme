@@ -1673,4 +1673,4 @@
 }(window.jQuery));
 
 
-$('#sandbox-container .input-daterange').datepicker({});
+jQuery('#sandbox-container .input-daterange').datepicker({});

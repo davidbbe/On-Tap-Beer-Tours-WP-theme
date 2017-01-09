@@ -9,7 +9,7 @@ function bst_enqueues() {
 	wp_enqueue_style('bst-css');
   wp_register_style('colors-css', get_template_directory_uri() . '/css/colors/default.css', false, null);
 	wp_enqueue_style('colors-css');
-  wp_register_style('google-font-css', 'https://fonts.googleapis.com/css?family=Montserrat:400,700', false, null);
+  wp_register_style('google-font-css', 'https://fonts.googleapis.com/css?family=Hind:400,700', false, null);
 	wp_enqueue_style('google-font-css');
   wp_register_style('fontawesome-css', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css', false, null);
 	wp_enqueue_style('fontawesome-css');

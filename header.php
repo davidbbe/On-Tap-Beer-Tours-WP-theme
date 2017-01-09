@@ -29,7 +29,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"></a>
+            <a class="navbar-brand" href="/"></a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
@@ -38,52 +38,14 @@
               <li class="active dropdown singleDrop">
                 <a href="index.html">Home</a>
               </li>
-              <li class="dropdown megaDropMenu">
-                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="true" aria-expanded="false">tour packages</a>
-                <ul class="row dropdown-menu">
-                  <li class="col-sm-3 col-xs-12">
-                    <ul class="list-unstyled">
-                      <li>Tour Packages Grid View</li>
-                      <li><a href="packages-grid-left-sidebar.html">Packages Sidebar Left</a></li>
-                      <li><a href="packages-grid-right-sidebar.html">Packages Sidebar Right</a></li>
-                      <li><a href="packages-grid.html">Packages 3 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="col-sm-3 col-xs-12">
-                    <ul class="list-unstyled">
-                      <li>Tour Packages List View</li>
-                      <li><a href="packages-list-left-sidebar.html">Packages Sidebar Left</a></li>
-                      <li><a href="packages-list-right-sidebar.html">Packages Sidebar Right</a></li>
-                      <li><a href="packages-list.html">Packages List</a></li>
-                    </ul>
-                  </li>
-                  <li class="col-sm-3 col-xs-12">
-                    <ul class="list-unstyled">
-                      <li>Single Package</li>
-                      <li><a href="single-package-left-sidebar.html">Package Sidebar Left</a></li>
-                      <li><a href="single-package-right-sidebar.html">Package Sidebar Right</a></li>
-                      <li><a href="single-package-fullwidth.html">Package Fullwidth</a></li>
-                    </ul>
-                  </li>
-                  <li class="col-sm-3 col-xs-12">
-                    <ul class="list-unstyled">
-                      <li>Booking Steps</li>
-                      <li><a href="booking-1.html">Step 1 - Personal Info</a></li>
-                      <li><a href="booking-2.html">Step 2 - Payment Info</a></li>
-                      <li><a href="booking-3.html">Step 3 - Confirmation</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class="dropdown singleDrop">
-                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinations</a>
-                <ul class="dropdown-menu dropdown-menu-left">
-                  <li><a href="destination-cities.html">Destination Cities</a></li>
-                  <li><a href="destination-single-city.html">Single Destination</a></li>
-                </ul>
+              <li class="">
+                <a href="#">Airport Transfers</a>
               </li>
               <li class="">
-                <a href="#">About</a>
+                <a href="#">Winery Tours</a>
+              </li>
+              <li class="">
+                <a href="#">Shuttle Services</a>
               </li>
               <li class="">
                 <a href="#">Contact</a>
@@ -111,7 +73,50 @@
       <div class="fullscreenbanner-container">
         <div class="fullscreenbanner">
           <ul>
-            <li data-transition="parallaxvertical" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
+            <li data-transition="fade" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
+              <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-02.jpg" alt="Header background image" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" style="max-width:100%;" />
+              <div class="slider-caption container">
+                <div class="tp-caption rs-caption-1 sft start text-center"
+                  data-hoffset="0"
+                  data-x="center"
+                  data-y="270"
+                  data-speed="800"
+                  data-start="1000"
+                  data-easing="Back.easeInOut"
+                  data-endspeed="300">
+                  Tour It
+                  <span>Transportation Services</span>
+                </div>
+                <div class="tp-caption rs-caption-2 sft text-center"
+                  data-hoffset="0"
+                  data-x="center"
+                  data-y="400"
+                  data-speed="1000"
+                  data-start="1500"
+                  data-easing="Power4.easeOut"
+                  data-endspeed="300"
+                  data-endeasing="Power1.easeIn"
+                  data-captionhidden="off">
+                  Airport pickup/drop off, Winery tours, and all other event shuttle services.
+                </div>
+                <div class="tp-caption rs-caption-3 sft text-center"
+                  data-hoffset="0"
+                  data-x="center"
+                  data-y="485"
+                  data-speed="800"
+                  data-start="2000"
+                  data-easing="Power4.easeOut"
+                  data-endspeed="300"
+                  data-endeasing="Power1.easeIn"
+                  data-captionhidden="off">
+                  <span class="page-scroll">
+                    Give us a call:<br/>
+                    <a href="tel:707-483-8126" class="btn buttonCustomPrimary">707-483-8126</a>
+                  </span>
+                </div>
+              </div>
+            </li>
+<!--             <li data-transition="parallaxvertical" data-slotamount="10" data-masterspeed="700" data-title="Slide 1">
               <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-05.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
               <div class="slider-caption container">
                 <div class="tp-caption rs-caption-1 sft start"
@@ -147,50 +152,8 @@
                   <span class="page-scroll"><a target="_blank" href="#" class="btn buttonCustomPrimary">Book Now</a></span>
                 </div>
               </div>
-            </li>
-
-            <li data-transition="parallaxvertical" data-slotamount="5" data-masterspeed="1000" data-title="Slide 2">
-              <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-02.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
-              <div class="slider-caption container">
-                <div class="tp-caption rs-caption-1 sft start text-center"
-                  data-hoffset="0"
-                  data-x="center"
-                  data-y="270"
-                  data-speed="800"
-                  data-start="1000"
-                  data-easing="Back.easeInOut"
-                  data-endspeed="300">
-                  Reliable Transportation
-                  <span>For Any Occasion</span>
-                </div>
-                <div class="tp-caption rs-caption-2 sft text-center"
-                  data-hoffset="0"
-                  data-x="center"
-                  data-y="400"
-                  data-speed="1000"
-                  data-start="1500"
-                  data-easing="Power4.easeOut"
-                  data-endspeed="300"
-                  data-endeasing="Power1.easeIn"
-                  data-captionhidden="off">
-                  We understand that safety and comfort are very important to our customers and we strongly believe that we can exceed our customers’ expectations.
-                </div>
-                <div class="tp-caption rs-caption-3 sft text-center"
-                  data-hoffset="0"
-                  data-x="center"
-                  data-y="485"
-                  data-speed="800"
-                  data-start="2000"
-                  data-easing="Power4.easeOut"
-                  data-endspeed="300"
-                  data-endeasing="Power1.easeIn"
-                  data-captionhidden="off">
-                  <span class="page-scroll"><a target="_blank" href="#" class="btn buttonCustomPrimary">View Services</a></span>
-                </div>
-              </div>
-            </li>
-
-            <li data-transition="parallaxvertical" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
+            </li> -->
+<!--             <li data-transition="parallaxvertical" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
               <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-03.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
               <div class="slider-caption container">
                 <div class="tp-caption rs-caption-1 sft start"
@@ -226,7 +189,7 @@
                   <span class="page-scroll"><a target="_blank" href="#" class="btn buttonCustomPrimary">Book Now</a></span>
                 </div>
               </div>
-            </li>
+            </li> -->
 <!-- 
             <li data-transition="parallaxvertical" data-slotamount="5" data-masterspeed="1000" data-title="Slide 2">
               <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-04.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">

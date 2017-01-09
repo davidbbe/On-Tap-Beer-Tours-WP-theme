@@ -4,34 +4,34 @@
     padding: 0;
 }
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Hind', sans-serif;
     font-size: 14px;
     line-height: 21px;
     color: lighten(desaturate(adjust-hue($primary-color, -28.5333), 100.0000), 2.9412);
     font-weight: 400;
     // overflow-x: hidden; 
 }
-ul{
+ul {
 	margin:0;
 	padding:0;
 	li{
 		list-style-type:none;
 	}
 }
-p{
+p {
     font-size: 16px;
     color: #5a5a5a;
     font-weight: 400;
     line-height: 21px;
 }
-h1, h2, h3, h4{
-    font-family: 'Montserrat', sans-serif;
+h1, h2, h3, h4 {
+    font-family: 'Hind', sans-serif;
     text-transform: uppercase;
     color: $secondary-color;
     margin-top: 0;
 	font-weight: 700;
 }
-h4{
+h4 {
    font-size: $base-xs*9;
    margin-bottom: 25px;  
 }

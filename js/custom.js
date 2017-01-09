@@ -42,13 +42,14 @@ jQuery(document).ready(function( $ ) {
 
 //============================== Rs-Slider =========================
   jQuery('.fullscreenbanner').revolution({
-   delay: 5000,
+   delay: 1,
    startwidth: 1170,
-   startheight: 745,
+   startheight: 700,
    fullWidth: "on",
    fullScreen: "off",
    hideCaptionAtLimit: "",
    dottedOverlay: "twoxtwo",
+   navigationType:"none",
    navigationStyle: "preview4",
    fullScreenOffsetContainer: "",
    hideTimerBar:"on"
