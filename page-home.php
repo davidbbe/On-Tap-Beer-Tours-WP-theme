@@ -11,18 +11,18 @@ get_header(); ?>
           <div class="col-xs-12 sectionTitle">
             <h2><span>OFFERING TRANSPORTATION SERVICES TO NORTHERN CA</span></h2>
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-8">
+          <div class="col-xs-12 col-sm-6 col-md-7">
             <div class="">
               <p class="lead">At TOUR IT in Santa Rosa CA, we pride ourselves on maintaining a vehicle fleet that meets the exacting standards of all our clients.</p>
               <p>We understand that safety and comfort are very important to our customers and we strongly believe that we can exceed our customers’ expectations. Both businesses and individuals can rely on our transportation services. We have automobiles with dimensions and amenities to match any taste. We offer a suite of transportation solutions, including:</p>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <img class="img-responsive" src="#" alt="Vehicle selection" />
+          <div class="col-xs-12 col-sm-6 col-md-5">
+            <img class="img-responsive" src="<?php echo get_bloginfo('template_directory');?>/img/limo.jpg" alt="Vehicle selection" />
           </div>
         </div>
-        <hr />
-        <div class="row aboutItem">
+
+<!--         <div class="row aboutItem">
           <div class="col-sm-4 col-xs-12">
             <div class="media">
               <a class="media-left" href="#"><i class="fa fa-plane" aria-hidden="true"></i></a>
@@ -68,46 +68,11 @@ get_header(); ?>
               </div>
             </div>
           </div>
-          <!--
-          <div class="col-sm-4 col-xs-12">
-            <div class="media">
-              <a class="media-left" href="#"><i class="fa fa-cutlery" aria-hidden="true"></i></a>
-              <div class="media-body">
-                <h4 class="media-heading">Cras Vestibulum</h4>
-                <p>Aenean gravida, nisl et volutpat dapibus, nisl odio accumsan pretium lacus libero a lacus.</p>
-              </div>
-            </div>
-          </div> -->
-        </div>
+        </div> -->
+
       </div>
     </section>
 
-    <!-- Wine Tours PARALLAX -->
-    <section class="promotionWrapper">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="promotionTable">
-              <div class="promotionTableInner">
-                <div class="promotionInfo">
-                  <span>Elegant Sonoma Wine Tasting Tours and Napa Valley Wine Tours</span>
-                  <h2>Call Us Or Book Online</h2>
-                  <ul class="list-inline rating">
-                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
-                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
-                  </ul>
-                  <p>707-123-4567</p>
-                  <a href="#" class="btn buttonCustomPrimary">Book Now</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- 3 Packages -->
     <section class="mainContentSection packagesSection">
@@ -123,7 +88,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
-              <img src="img/home/deal/deal-01.jpg" alt="deal-image">
+              <img src="<?php echo get_bloginfo('template_directory');?>/img/airport-transfer.jpg" alt="deal-image">
               <a href="#" class="pageLink"></a>
               <div class="discountInfo">
 <!--                 <div class="discountOffer">
@@ -132,7 +97,7 @@ get_header(); ?>
                   </h4>
                 </div> -->
                 <ul class="list-inline duration">
-                  <li>7 days</li>
+                  <li>7 days/week</li>
                 </ul>
               </div>
               <div class="caption">
@@ -157,7 +122,7 @@ get_header(); ?>
 
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
-              <img src="img/home/deal/deal-02.jpg" alt="deal-image">
+              <img src="<?php echo get_bloginfo('template_directory');?>/img/winery-tours.jpg" alt="deal-image">
               <a href="#" class="pageLink"></a>
               <div class="discountInfo">
 <!--                 <div class="discountOffer">
@@ -191,7 +156,7 @@ get_header(); ?>
 
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
-              <img src="img/home/deal/deal-03.jpg" alt="deal-image">
+              <img src="<?php echo get_bloginfo('template_directory');?>/img/shuttle-services.jpg" alt="deal-image">
               <a href="#" class="pageLink"></a>
               <div class="discountInfo">
 <!--                 <div class="discountOffer">
@@ -227,7 +192,9 @@ get_header(); ?>
       </div>
     </section>
 
-    <!-- Airport PARALLAX -->
+
+
+    <!-- Wine Tours PARALLAX -->
     <section class="promotionWrapper">
       <div class="container">
         <div class="row">
@@ -235,30 +202,17 @@ get_header(); ?>
             <div class="promotionTable">
               <div class="promotionTableInner">
                 <div class="promotionInfo">
-                  <h2>Airport Pick Up &amp; Drop Off</h2>
-                  <p>Tour It. Event Services will be happy to Pick up or drop off at any of the following airports:</p>
-                  
-                  <div class="col-sm-4 col-xs-6">
-                    <div class="text-center">
-                      <div class="counter">SFO <i class="fa fa-plane" aria-hidden="true"></i></div>
-                      <h5>San Francisco International</h5>
-                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
-                    </div>
-                  </div>
-                  <div class="col-sm-4 col-xs-6">
-                    <div class="text-center">
-                      <div class="counter">OAK <i class="fa fa-plane" aria-hidden="true"></i></div>
-                      <h5>Oakland International</h5>
-                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
-                    </div>
-                  </div>
-                  <div class="col-sm-4 col-xs-6">
-                    <div class="text-center">
-                      <div class="counter">STS <i class="fa fa-plane" aria-hidden="true"></i></div>
-                      <h5>Sonoma County Airport</h5>
-                      <a href="#" class="btn buttonCustomPrimary">View Details</a>
-                    </div>
-                  </div>
+                  <span>Elegant Sonoma Wine Tasting Tours and Napa Valley Wine Tours</span>
+                  <h2>Call Us Or Book Online</h2>
+                  <ul class="list-inline rating">
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-glass" aria-hidden="true"></i></li>
+                  </ul>
+                  <p>707-123-4567</p>
+                  <a href="#" class="btn buttonCustomPrimary">Book Now</a>
                 </div>
               </div>
             </div>

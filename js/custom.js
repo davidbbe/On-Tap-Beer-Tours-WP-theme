@@ -19,19 +19,6 @@
 }(jQuery));
 
 jQuery(document).ready(function( $ ) {
-//============================== CLOSE DROPDOWN SELECT =========================
-  $(".ed-datepicker input.form-control").focus(function() {
-    $(".sbOptions").css("display", "none");
-  });
-
-  $('.ed-datepicker').datepicker({ 
-  format: 'dd/mm/yyyy',
-  autoclose: true,
-  orientation: 'top auto',
-  todayBtn: 'linked',
-  todayHighlight: true
-  });
-
 //============================== ALL DROPDOWN ON HOVER =========================
   $('.dropdown').hover(function() {
     $(this).addClass('open');
@@ -74,15 +61,6 @@ jQuery(document).ready(function( $ ) {
 
   });
 
-//============================== SELECT BOX =========================
-  $('.select-drop').selectbox();
-
-//============================== Date-picker =========================
-  $('.datepicker').datepicker({
-    startDate: "dateToday",
-    autoclose: true
-  });
-
 //============================== COUNTER-UP =========================
   // $(document).ready(function ($) {
   //   $('.counter').counterUp({
@@ -90,26 +68,6 @@ jQuery(document).ready(function( $ ) {
   //     time: 2000
   //   });
   // });
-
-//============================== PRICE SLIDER RANGER =========================
-  jQuery(document).ready(function() {
-    var minimum = 20;
-    var maximum = 300;
-
-    $( "#price-range" ).slider({
-      range: true,
-      min: minimum,
-      max: maximum,
-      values: [ minimum, maximum ],
-      slide: function( event, ui ) {
-        $( "#price-amount-1" ).val( "$" + ui.values[ 0 ] );
-        $( "#price-amount-2" ).val( "$" + ui.values[ 1 ] );
-      }
-    });
-
-    $( "#price-amount-1" ).val( "$" + $( "#price-range" ).slider( "values", 0 ));
-    $( "#price-amount-2" ).val( "$" + $( "#price-range" ).slider( "values", 1 ));
-  });
 
 //============================== ACCORDION OR COLLAPSE ICON CHANGE =========================
   

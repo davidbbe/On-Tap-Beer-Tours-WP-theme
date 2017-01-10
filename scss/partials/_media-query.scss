@@ -1,6 +1,6 @@
 /*=== MEDIA QUERY ===*/
 @mixin mobile-xs{
-  @media(min-width:320px){
+  @media(min-width:350px){
     @content;
   }
 }
