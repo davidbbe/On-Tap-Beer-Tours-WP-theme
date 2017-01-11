@@ -47,12 +47,10 @@ jQuery(document).ready(function( $ ) {
   $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
     
-    if ((scroll >= 1) && ($(".navbar-default").hasClass("navbar-main")))
-    {
+    if ((scroll >= 1) && ($(".navbar-default").hasClass("navbar-main"))) {
       header.addClass("lightHeader");
     }
-    else if ($(".navbar-default").hasClass("static-light"))
-    {
+    else if ($(".navbar-default").hasClass("static-light")) {
       header.addClass("lightHeader");
     }  
     else {

@@ -396,6 +396,31 @@
 	.panel-group .panel+.panel{
 		margin-top: $base*3;
 	}
+	.well{
+		h3{
+			color: $text-title;
+			font-weight: 400;
+			font-size: $base-xs*9;
+			margin-bottom: $base*5;
+		}
+		.list-unstyled{
+			margin-bottom: $base*3;
+			float: left;
+			li{
+				color: $text-title;
+				margin-bottom: $base*3;
+				i{
+					margin-right: $base*2;
+				}
+			}
+		}
+		.buttonCustomPrimary{
+			padding: 0 $base*4;
+			&:hover{
+				@include opacity(1);
+			}
+		}
+	}
 }
 .relatedProduct{
 	h2{
@@ -643,31 +668,6 @@
 	}
 	.tab-content{
 		padding-top: $base*6;
-		.well{
-			h3{
-				color: $text-title;
-				font-weight: 400;
-				font-size: $base-xs*9;
-				margin-bottom: $base*5;
-			}
-			.list-unstyled{
-				margin-bottom: $base*3;
-				float: left;
-				li{
-					color: $text-title;
-					margin-bottom: $base*3;
-					i{
-						margin-right: $base*2;
-					}
-				}
-			}
-			.buttonCustomPrimary{
-				padding: 0 $base*4;
-				&:hover{
-					@include opacity(1);
-				}
-			}
-		}
 	}
 }
 .commonInfo{
@@ -680,13 +680,10 @@
 	p{
 		margin-bottom: $base*5;
 	}
-	.list-inline{
+	.list-unstyled{
 		li{
 			margin-bottom: $base*2;
-			width: 40%;
 			i{
-				@include transform(rotate(45deg));
-				font-size: $base*2;
 				color: darken(desaturate(adjust-hue($primary-color, 191.4667), 98.5646), 14.9020);
 				margin-right: $base*2;
 			}

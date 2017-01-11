@@ -5,16 +5,26 @@
 
             <div class="col-sm-4 col-xs-12">
               <div class="footerContent">
+                <a href="index.html" class="footer-logo"><img src="img/logo-color-sm.png" alt="footer-logo"></a>
+                <p>Northern California's premier transportation services specializing in winery tours, airport pickup/drop off, and event shuttles. Please call or email for more informaion.</p>
+              </div>
+            </div>
+
+            <div class="col-sm-4 col-xs-12">
+              <div class="footerContent">
                 <h5>Services</h5>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="#">Airport Transfers</a>
+                    <a href="/airport-transfers">Airport Transfers</a>
                   </li>
                   <li>
-                    <a href="#">Winery Tours</a>
+                    <a href="/winery-tours">Winery Tours</a>
                   </li>
                   <li>
-                    <a href="#">Shuttle Services</a>
+                    <a href="/shuttle-services">Shuttle Services</a>
+                  </li>
+                  <li>
+                    <a href="#">Custom/Private Tours</a>
                   </li>
                 </ul>
               </div>
@@ -30,20 +40,9 @@
                     Santa Rosa, CA 95491
                   </li>
                   <li><i class="fa fa-clock-o" aria-hidden="true"></i>Phone Hours: 10am - 7pm</li>
-                  <li><i class="fa fa-phone" aria-hidden="true"></i>707-483-8126</li>
+                  <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:707-483-8126">707-483-8126</a></li>
                   <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:info@star-travel.com">touritllc@gmail.com</a></li>
                 </ul>
-              </div>
-            </div>
-
-            <div class="col-sm-4 col-xs-12">
-              <div class="footerContent">
-                <h5>Newsletter</h5>
-                <p>Get Exclusive Deals and Promotions</p>
-                <div class="input-group">
-                  <input type="text" class="form-control" placeholder="Enter your email" aria-describedby="basic-addon21">
-                  <span class="input-group-addon" id="basic-addon21"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
-                </div>
                 <ul class="list-inline">
                   <li>
                     <a href="https://m.facebook.com/TourIt707/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
