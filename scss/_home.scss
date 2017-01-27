@@ -100,7 +100,7 @@
 	span{
 		display: block;
 		@include mobile-all {
-			font-size: $base-xs*19 !important;
+			font-size: 7vw !important;
 			line-height: $base-xs*19 !important;
 		}
 		@include tablet {
@@ -115,6 +115,9 @@
 			font-size: $base-xs*32 !important;
 			line-height: $base-xs*27 !important;
 		}
+		@media screen and (min-width: 768px) and (max-width: 991px) {
+			font-size: 49px !important;
+		}
 	}
 }
 .tp-caption.rs-caption-2{
@@ -122,6 +125,7 @@
 	@include mobile-all {
 		font-size: $base*3+1px !important;
 		line-height: $base*4+2px !important;
+		display: none;
 	}
 	@include tablet {
 		display: block;
@@ -156,7 +160,7 @@
 }
 /*=== 6.2 PROMOTION ===*/
 .promotionWrapper{
-	background-image: url("../img/home/promotion/promotion-1.jpg");
+	background-image: url("../img/wine-tour-bottom.jpg");
 	background-attachment: fixed;
 	width: 100%;
 	-webkit-background-size: cover;

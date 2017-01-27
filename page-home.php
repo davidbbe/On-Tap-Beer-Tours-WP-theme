@@ -11,12 +11,12 @@ get_header(); ?>
         <div class="fullscreenbanner">
           <ul>
             <li data-transition="fade" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
-              <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-02.jpg" alt="Header background image" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" style="max-width:100%;" />
+              <img src="<?php echo get_bloginfo('template_directory');?>/img/home/slider/slider-01.jpg" alt="Header background image" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" style="max-width:100%;max-height:50vh;" />
               <div class="slider-caption container">
                 <div class="tp-caption rs-caption-1 sft start text-center"
                   data-hoffset="0"
                   data-x="center"
-                  data-y="270"
+                  data-y="230"
                   data-speed="800"
                   data-start="1000"
                   data-easing="Back.easeInOut"
@@ -27,7 +27,7 @@ get_header(); ?>
                 <div class="tp-caption rs-caption-2 sft text-center"
                   data-hoffset="0"
                   data-x="center"
-                  data-y="400"
+                  data-y="360"
                   data-speed="1000"
                   data-start="1500"
                   data-easing="Power4.easeOut"
@@ -39,7 +39,7 @@ get_header(); ?>
                 <div class="tp-caption rs-caption-3 sft text-center"
                   data-hoffset="0"
                   data-x="center"
-                  data-y="485"
+                  data-y="445"
                   data-speed="800"
                   data-start="2000"
                   data-easing="Power4.easeOut"
@@ -272,7 +272,7 @@ get_header(); ?>
               </div>
               <div class="caption">
                 <h4>
-                  <a href="#" class="captionTitle">Airport Transfers</a>
+                  <a href="/airport-transfers" class="captionTitle">Airport Transfers</a>
                 </h4>
                 <p>We will be happy to pick up or drop off at any of the following airports: SFO, OAK, STS(Sonoma County Airport).</p>
                 <div class="detailsInfo">
@@ -282,7 +282,7 @@ get_header(); ?>
                   </h5>
                   <ul class="list-inline detailsBtn">
                     <li>
-                      <a href="#" class="btn buttonTransparent">Details</a>
+                      <a href="/airport-transfers" class="btn buttonTransparent">Details</a>
                     </li>
                   </ul>
                 </div>
@@ -306,7 +306,7 @@ get_header(); ?>
               </div>
               <div class="caption">
                 <h4>
-                  <a href="#" class="captionTitle">Winery Tours</a>
+                  <a href="/winery-tours" class="captionTitle">Winery Tours</a>
                 </h4>
                 <p>Our experienced tour guides will share a wealth of knowledge about small boutique single vineyard wineries, to large estate wineries customized to your palate.</p>
                 <div class="detailsInfo">
@@ -316,7 +316,7 @@ get_header(); ?>
                   </h5>
                   <ul class="list-inline detailsBtn">
                     <li>
-                      <a href="#" class="btn buttonTransparent">Details</a>
+                      <a href="/winery-tours" class="btn buttonTransparent">Details</a>
                     </li>
                   </ul>
                 </div>
@@ -327,7 +327,7 @@ get_header(); ?>
           <div class="col-sm-4 col-xs-12">
             <div class="thumbnail deals">
               <img src="<?php echo get_bloginfo('template_directory');?>/img/shuttle-services.jpg" alt="deal-image">
-              <a href="#" class="pageLink"></a>
+              <a href="/shuttle-services" class="pageLink"></a>
               <div class="discountInfo">
 <!--                 <div class="discountOffer">
                   <h4>
@@ -340,7 +340,7 @@ get_header(); ?>
               </div>
               <div class="caption">
                 <h4>
-                  <a href="#" class="captionTitle">Shuttle Services</a>
+                  <a href="/shuttle-services" class="captionTitle">Shuttle Services</a>
                 </h4>
                 <p>Event Services provides safe transportation for you and your guests from your choice of event locations.</p>
                 <div class="detailsInfo">
@@ -350,7 +350,7 @@ get_header(); ?>
                   </h5>
                   <ul class="list-inline detailsBtn">
                     <li>
-                      <a href="#" class="btn buttonTransparent">Details</a>
+                      <a href="/shuttle-services/" class="btn buttonTransparent">Details</a>
                     </li>
                   </ul>
                 </div>
@@ -381,7 +381,7 @@ get_header(); ?>
                     <li><i class="fa fa-glass" aria-hidden="true"></i></li>
                     <li><i class="fa fa-glass" aria-hidden="true"></i></li>
                   </ul>
-                  <p>707-123-4567</p>
+                  <p>707-483-8126</p>
                   <a href="#" class="btn buttonCustomPrimary">Book Now</a>
                 </div>
               </div>

@@ -48,30 +48,11 @@ get_header(); ?>
 
         <div class="col-sm-4 col-xs-12">
           <aside>
-            <div class="weatherInfo">
-              <img src="img/cities/weather-bg.png" alt="image">
-              <div class="cityWeather">
-                <div class="cityTable">
-                  <div class="cityTableInner">
-                    <div class="cityWeatherInfo">
-                      <img src="img/icons/cloud.png">
-                      <h2>28<sup>0</sup></h2>
-                      <p>France, Paris</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="dayTime">
-                <span class="pull-left">April 20, 2016</span>
-                <span class="pull-right">Monday</span>
-              </div>
-              <div class="daysWeather">
-                <ul class="list-inline">
-                  <li>Tue <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/cloud-rain.png" alt="image"></span>18<sup>0</sup></li>
-                  <li>Wed <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/sun.png" alt="image"></span>25<sup>0</sup></li>
-                  <li>Thu <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/cloud-sm.png" alt="image"></span>22<sup>0</sup></li>
-                </ul>
-              </div>
+            <div class="well">
+              <h3>Not sure what wineries to visit?</h3>
+              <p>Ask one of our Wine & Event Specialists. They will be happy to provide winery recommendations based on your personal preference.</p>
+              <br />
+              <a href="#" class="btn buttonCustomPrimary">BOOK NOW</a>
             </div>
           </aside>
         </div>
@@ -132,14 +113,10 @@ get_header(); ?>
         </div>
 
         <div class="col-sm-4 col-xs-12">
-          <aside>
-            <div class="well">
-              <h3>Not sure what wineries to visit?</h3>
-              <p>Ask one of our Wine & Event Specialists. They will be happy to provide winery recommendations based on your personal preference.</p>
-              <br />
-              <a href="#" class="btn buttonCustomPrimary">BOOK NOW</a>
-            </div>
-          </aside>
+
+
+
+
         </div>
 
       </div>

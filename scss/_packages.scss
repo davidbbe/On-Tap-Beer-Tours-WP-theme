@@ -303,7 +303,25 @@
 		border-color: lighten(desaturate(adjust-hue($primary-color, -28.5333), 100.0000), 37.4510);
 		box-shadow: none;
 		padding: $base*6;
-		margin-bottom: $base*14;
+		height: 350px;
+		@media screen and (min-width: 992px) and (max-width: 1199px) {
+			height: 288px;
+			padding: 20px;
+		}
+		@media screen and (min-width: 768px) and (max-width: 991px) {
+			height: 219px;
+			padding: 15px;
+		}
+		@media screen and (max-width: 767px) {
+			height: 250px;
+			padding: 15px;
+		}
+		p {
+			@media screen and (max-width: 991px) {
+				font-size: 14px;
+				line-height: 1.2em;
+			}
+		}
 		.infoImage{
 			width: 100%;
 			img{
@@ -402,6 +420,10 @@
 			font-weight: 400;
 			font-size: $base-xs*9;
 			margin-bottom: $base*5;
+			@media screen and (max-width: 991px) {
+				font-size: 16px;
+				margin-bottom: 10px;
+			}
 		}
 		.list-unstyled{
 			margin-bottom: $base*3;
@@ -522,9 +544,9 @@
 .countryTitle{
 	.carousel-inner{
 		>.item{
-			height: $base*90;
 			img{
-				height: 100%;
+			  height: auto;
+			  width: 100%;
 			}
 		}
 	}

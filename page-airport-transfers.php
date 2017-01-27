@@ -35,10 +35,7 @@ get_header(); ?>
             </ol>
             <div class="carousel-inner">
               <div class="item active">
-                <img alt="First slide" src="<?php echo get_bloginfo('template_directory');?>/img/winery/vineyard-small.jpg">
-              </div>
-              <div class="item">
-                <img alt="Second slide" src="<?php echo get_bloginfo('template_directory');?>/img/winery/grapes-small.jpg">
+                <img alt="First slide" src="<?php echo get_bloginfo('template_directory');?>/img/airport/airport-pickup.jpg">
               </div>
             </div>
             <a class="left carousel-control" href="#package-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
@@ -48,30 +45,11 @@ get_header(); ?>
 
         <div class="col-sm-4 col-xs-12">
           <aside>
-            <div class="weatherInfo">
-              <img src="img/cities/weather-bg.png" alt="image">
-              <div class="cityWeather">
-                <div class="cityTable">
-                  <div class="cityTableInner">
-                    <div class="cityWeatherInfo">
-                      <img src="img/icons/cloud.png">
-                      <h2>28<sup>0</sup></h2>
-                      <p>France, Paris</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="dayTime">
-                <span class="pull-left">April 20, 2016</span>
-                <span class="pull-right">Monday</span>
-              </div>
-              <div class="daysWeather">
-                <ul class="list-inline">
-                  <li>Tue <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/cloud-rain.png" alt="image"></span>18<sup>0</sup></li>
-                  <li>Wed <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/sun.png" alt="image"></span>25<sup>0</sup></li>
-                  <li>Thu <span><img src="<?php echo get_bloginfo('template_directory');?>/img/icons/cloud-sm.png" alt="image"></span>22<sup>0</sup></li>
-                </ul>
-              </div>
+            <div class="well">
+              <h3>Not sure how early to book?</h3>
+              <p>Ask one of our transportation specialists. They will be happy to provide you with time recommendations for travel and airport wait times.</p>
+              <br />
+              <a href="#" class="btn buttonCustomPrimary">BOOK NOW</a>
             </div>
           </aside>
         </div>
@@ -189,14 +167,10 @@ get_header(); ?>
         </div>
 
         <div class="col-sm-4 col-xs-12">
-          <aside>
-            <div class="well">
-              <h3>Not sure how early to book?</h3>
-              <p>Ask one of our transportation specialists. They will be happy to provide you with time recommendations for travel and airport wait times.</p>
-              <br />
-              <a href="#" class="btn buttonCustomPrimary">BOOK NOW</a>
-            </div>
-          </aside>
+
+
+
+
         </div>
 
       </div>

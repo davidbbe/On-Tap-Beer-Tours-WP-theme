@@ -28,10 +28,11 @@ jQuery(document).ready(function( $ ) {
   });
 
 //============================== Rs-Slider =========================
+// https://www.themepunch.com/revsliderjquery-doc/
   jQuery('.fullscreenbanner').revolution({
    delay: 1,
    startwidth: 1170,
-   startheight: 700,
+   startheight: 600,
    fullWidth: "on",
    fullScreen: "off",
    hideCaptionAtLimit: "",

@@ -184,6 +184,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/airport\/airport-pickup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80795,
+		"inputAbbreviatedPath": "\/img\/airport\/airport-pickup.jpg",
+		"outputAbbreviatedPath": "\/img\/airport\/airport-pickup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/airport\/airport.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -261,6 +272,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/home\/slider\/slider-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240054,
+		"inputAbbreviatedPath": "\/img\/home\/slider\/slider-01.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/slider\/slider-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/home\/slider\/slider-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -287,9 +309,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20913,
+		"initialSize": 8737,
 		"inputAbbreviatedPath": "\/img\/logo-color-big.png",
 		"outputAbbreviatedPath": "\/img\/logo-color-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo-color-big1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20913,
+		"inputAbbreviatedPath": "\/img\/logo-color-big1.png",
+		"outputAbbreviatedPath": "\/img\/logo-color-big1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -298,20 +331,31 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4096,
+		"initialSize": 10040,
 		"inputAbbreviatedPath": "\/img\/logo-color-sm.png",
 		"outputAbbreviatedPath": "\/img\/logo-color-sm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/logo-dark.png": {
+	"\/img\/logo-color-sm1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4096,
+		"inputAbbreviatedPath": "\/img\/logo-color-sm1.png",
+		"outputAbbreviatedPath": "\/img\/logo-color-sm1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo-dark1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4058,
-		"inputAbbreviatedPath": "\/img\/logo-dark.png",
-		"outputAbbreviatedPath": "\/img\/logo-dark.png",
+		"inputAbbreviatedPath": "\/img\/logo-dark1.png",
+		"outputAbbreviatedPath": "\/img\/logo-dark1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -331,9 +375,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3117,
+		"initialSize": 10040,
 		"inputAbbreviatedPath": "\/img\/logo.png",
 		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3117,
+		"inputAbbreviatedPath": "\/img\/logo1.png",
+		"outputAbbreviatedPath": "\/img\/logo1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -481,24 +536,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sprinter-front.jpeg": {
+	"\/img\/shuttle\/shuttle-services.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 174430,
-		"inputAbbreviatedPath": "\/img\/sprinter-front.jpeg",
-		"outputAbbreviatedPath": "\/img\/sprinter-front.jpeg",
+		"initialSize": 77776,
+		"inputAbbreviatedPath": "\/img\/shuttle\/shuttle-services.jpg",
+		"outputAbbreviatedPath": "\/img\/shuttle\/shuttle-services.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sprinter-inside.jpeg": {
+	"\/img\/shuttle\/sprinter-front.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174430,
+		"inputAbbreviatedPath": "\/img\/shuttle\/sprinter-front.jpeg",
+		"outputAbbreviatedPath": "\/img\/shuttle\/sprinter-front.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/shuttle\/sprinter-inside.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 155581,
-		"inputAbbreviatedPath": "\/img\/sprinter-inside.jpeg",
-		"outputAbbreviatedPath": "\/img\/sprinter-inside.jpeg",
+		"inputAbbreviatedPath": "\/img\/shuttle\/sprinter-inside.jpeg",
+		"outputAbbreviatedPath": "\/img\/shuttle\/sprinter-inside.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wine-tour-bottom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 916124,
+		"inputAbbreviatedPath": "\/img\/wine-tour-bottom.jpg",
+		"outputAbbreviatedPath": "\/img\/wine-tour-bottom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -706,6 +783,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/page-home.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-shuttle-services.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-shuttle-services.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

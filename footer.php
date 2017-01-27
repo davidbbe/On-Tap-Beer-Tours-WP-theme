@@ -4,8 +4,10 @@
           <div class="row">
 
             <div class="col-sm-4 col-xs-12">
-              <div class="footerContent">
-                <a href="index.html" class="footer-logo"><img src="img/logo-color-sm.png" alt="footer-logo"></a>
+              <div class="footerContent footer-col-1">
+                <a href="index.html" class="footer-logo">
+                  <img class="img-responsive" src="<?php echo get_bloginfo('template_directory');?>/img/logo-color-sm.png" alt="footer-logo">
+                </a>
                 <p>Northern California's premier transportation services specializing in winery tours, airport pickup/drop off, and event shuttles. Please call or email for more informaion.</p>
               </div>
             </div>
@@ -66,16 +68,11 @@
       <div class="copyRight clearfix">
         <div class="container">
           <div class="row">
-            <div class="col-sm-6 col-sm-push-6 col-xs-12">
-              <ul class="list-inline">
-                <li><a href="/">Home</a></li>
-                <li><a href="/contact">Contact Us</a></li>
-              </ul>
+            <div class="col-xs-6 copyRightText">
+              <p class="pull-left">Copyright © 2017 Tour It LLC</p>
             </div>
-            <div class="col-sm-6 col-sm-pull-6 col-xs-12">
-              <div class="copyRightText">
-                <p>Copyright © 2017 Tour It LLC</p>
-              </div>
+            <div class="col-xs-6 copyRightText">
+              <p class="pull-right">Website by <a href="http://davidb.us" target="_blank">David B.</a></p>
             </div>
           </div>
         </div>
