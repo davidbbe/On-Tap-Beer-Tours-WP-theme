@@ -69,7 +69,7 @@ get_header(); ?>
 
               <?php
 
-                $contact_form_email_address = "streethouse4@gmail.com";
+                $contact_form_email_address = "touritllc@gmail.com";
 
                 //response generation function
                 $response = "";

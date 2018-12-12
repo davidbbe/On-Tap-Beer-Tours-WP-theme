@@ -173,6 +173,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/airport-transfer copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212888,
+		"inputAbbreviatedPath": "\/img\/airport-transfer copy.jpg",
+		"outputAbbreviatedPath": "\/img\/airport-transfer copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/airport-transfer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -393,6 +404,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/luxury-limo-transportation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34551,
+		"inputAbbreviatedPath": "\/img\/luxury-limo-transportation.jpg",
+		"outputAbbreviatedPath": "\/img\/luxury-limo-transportation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/not-found\/not-found-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -525,6 +547,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/petaluma-hotel-wine-country-tour-package-top.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225386,
+		"inputAbbreviatedPath": "\/img\/petaluma-hotel-wine-country-tour-package-top.jpg",
+		"outputAbbreviatedPath": "\/img\/petaluma-hotel-wine-country-tour-package-top.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Screen Shot 2017-01-09 at 12.20.44 PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.73109e+06,
+		"inputAbbreviatedPath": "\/img\/Screen Shot 2017-01-09 at 12.20.44 PM.png",
+		"outputAbbreviatedPath": "\/img\/Screen Shot 2017-01-09 at 12.20.44 PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/shuttle-services.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -576,6 +620,17 @@
 		"initialSize": 916124,
 		"inputAbbreviatedPath": "\/img\/wine-tour-bottom.jpg",
 		"outputAbbreviatedPath": "\/img\/wine-tour-bottom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/winery-tours copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55832,
+		"inputAbbreviatedPath": "\/img\/winery-tours copy.jpg",
+		"outputAbbreviatedPath": "\/img\/winery-tours copy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
